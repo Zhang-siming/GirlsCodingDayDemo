@@ -1,6 +1,16 @@
+@font-face {
+    font-family: '方正清刻本悦宋简体';
+    src: url('方正清刻本悦宋简体.eot');
+    src: local('方正清刻本悦宋简体'),
+    local('方正清刻本悦宋简体'),
+    url('方正清刻本悦宋简体.woff') format('woff'),
+    url('方正清刻本悦宋简体.ttf') format('truetype'),
+    url('方正清刻本悦宋简体.svg#方正清刻本悦宋简体') format('svg');
+}
+
 body {
-    font-family:HAKUYOGuiFanZi3500, sans-serif;
-    font-size: 20px;
+    font-family:方正清刻本悦宋简体, sans-serif;
+    font-size: 25px;
     line-height: 1.42857143;
     color: #adadad;
     background-color: #444444 ;}
