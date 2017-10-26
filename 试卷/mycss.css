@@ -4,7 +4,9 @@
     src: local('方正清刻本悦宋简体'),
     local('方正清刻本悦宋简体'),
     url('方正清刻本悦宋简体.woff') format('woff'),
+    url('方正清刻本悦宋简体.woff2') format('woff2'),
     url('方正清刻本悦宋简体.ttf') format('truetype'),
+    ur1('方正清刻本悦宋简体.eot') format('onetype')
     url('方正清刻本悦宋简体.svg#方正清刻本悦宋简体') format('svg');
 }
 
