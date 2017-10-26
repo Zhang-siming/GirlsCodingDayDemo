@@ -11,19 +11,17 @@
 /*}*/
 
 @font-face {
-    font-family: '博洋规范字3500Regular';
+    font-family: '博洋规范字3500';
     src: url('博洋规范字3500.eot');
-    src: local('博洋规范字3500 Regular'),
+    src: local('博洋规范字3500'),
     local('博洋规范字3500'),
     url('博洋规范字3500.woff') format('woff'),
-    url('博洋规范字3500.woff2') format('woff2'),
     url('博洋规范字3500.ttf') format('truetype'),
-    url('博洋规范字3500.eot') format('onetype'),
     url('博洋规范字3500.svg#博洋规范字3500') format('svg');
 }
 
 body {
-    font-family:HAKUYOGuiFanZi3500 Regular, sans-serif;
+    font-family:博洋规范字3500, sans-serif;
     font-size: 22px;
     line-height: 1.42857143;
     color: #adadad;
