@@ -12,12 +12,12 @@
 
 @font-face {
     font-family: '博洋规范字3500';
-    src: url('博洋规范字3500.eot');
-    src: local('博洋规范字3500'),
+    src: url('../试卷/字体/博洋规范字3500.eot');
+    src: local('../试卷/字体/博洋规范字3500'),
     local('博洋规范字3500'),
-    url('博洋规范字3500.woff') format('woff'),
-    url('博洋规范字3500.ttf') format('truetype'),
-    url('博洋规范字3500.svg#博洋规范字3500') format('svg');
+    url('../试卷/字体/博洋规范字3500.woff') format('woff'),
+    url('../试卷/字体/博洋规范字3500.ttf') format('truetype'),
+    url('../试卷/字体/博洋规范字3500.svg#博洋规范字3500') format('svg');
 }
 
 body {
