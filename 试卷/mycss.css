@@ -11,15 +11,15 @@
 /*}*/
 
 @font-face {
-    font-family: 'HAKUYOGuiFanZi3500Regular';
-    src: url('HAKUYOGuiFanZi3500.eot');
-    src: local('HAKUYOGuiFanZi3500 Regular'),
-    local('HAKUYOGuiFanZi3500'),
-    url('HAKUYOGuiFanZi3500.woff') format('woff'),
-    url('HAKUYOGuiFanZi3500.woff2') format('woff2'),
-    url('HAKUYOGuiFanZi3500.ttf') format('truetype'),
-    ur1('HAKUYOGuiFanZi3500.eot') format('onetype')
-    url('HAKUYOGuiFanZi3500.svg#HAKUYOGuiFanZi3500') format('svg');
+    font-family: '博洋规范字3500Regular';
+    src: url('博洋规范字3500.eot');
+    src: local('博洋规范字3500 Regular'),
+    local('博洋规范字3500'),
+    url('博洋规范字3500.woff') format('woff'),
+    url('博洋规范字3500.woff2') format('woff2'),
+    url('博洋规范字3500.ttf') format('truetype'),
+    url('博洋规范字3500.eot') format('onetype'),
+    url('博洋规范字3500.svg#博洋规范字3500') format('svg');
 }
 
 body {
