@@ -11,9 +11,9 @@
 /*}*/
 
 @font-face {
-    font-family: 'HAKUYOGuiFanZi3500';
+    font-family: 'HAKUYOGuiFanZi3500 Regular';
     src: url('HAKUYOGuiFanZi3500.eot');
-    src: local('HAKUYOGuiFanZi3500'),
+    src: local('HAKUYOGuiFanZi3500 Regular'),
     local('HAKUYOGuiFanZi3500'),
     url('HAKUYOGuiFanZi3500.woff') format('woff'),
     url('HAKUYOGuiFanZi3500.woff2') format('woff2'),
@@ -23,7 +23,7 @@
 }
 
 body {
-    font-family:HAKUYOGuiFanZi3500, sans-serif;
+    font-family:HAKUYOGuiFanZi3500 Regular, sans-serif;
     font-size: 22px;
     line-height: 1.42857143;
     color: #adadad;
