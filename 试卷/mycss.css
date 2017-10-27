@@ -1,16 +1,4 @@
-/*@font-face {*/
-    /*font-family: '方正清刻本悦宋简体';*/
-    /*src: url('方正清刻本悦宋简体.eot');*/
-    /*src: local('方正清刻本悦宋简体'),*/
-    /*local('方正清刻本悦宋简体'),*/
-    /*url('方正清刻本悦宋简体.woff') format('woff'),*/
-    /*url('方正清刻本悦宋简体.woff2') format('woff2'),*/
-    /*url('方正清刻本悦宋简体.ttf') format('truetype'),*/
-    /*ur1('方正清刻本悦宋简体.eot') format('onetype')*/
-    /*url('方正清刻本悦宋简体.svg#方正清刻本悦宋简体') format('svg');*/
-/*}*/
-
-@font-face {
+font-face {
     font-family: '博洋规范字3500';
     src: url('../试卷/字体/博洋规范字3500.eot');
     src: local('../试卷/字体/博洋规范字3500'),
